@@ -15,6 +15,20 @@ This project demonstrates data cleaning and visualization using Python.
 - NumPy
 - Matplotlib
 
+## Output Screenshots
+
+### Bar Chart
+![Bar Chart](BAR%20CHART.png)
+
+### Histogram
+![Histogram](HISTOGRAM.png)
+
+### Scatter Plot
+![Scatter Plot](SCATTER%20PLOT.png)
+
+### Pie Chart
+![Pie Chart](PIE%20CHART.png)
+
 ## How to Run
 
 ```bash
